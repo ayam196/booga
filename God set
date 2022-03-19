@@ -1,0 +1,35 @@
+local A_1   = "God Halo"
+local Event = game:GetService("ReplicatedStorage").Events.CraftItem
+Event:FireServer(A_1)
+
+
+local A_1   = "God Chestplate"
+local Event = game:GetService("ReplicatedStorage").Events.CraftItem
+Event:FireServer(A_1)
+
+
+local A_1   = "God Legs"
+local Event = game:GetService("ReplicatedStorage").Events.CraftItem
+Event:FireServer(A_1)
+
+
+local A_1   = "God Pick"
+local Event = game:GetService("ReplicatedStorage").Events.CraftItem
+Event:FireServer(A_1)
+
+
+local A_1   = "God Axe"
+local Event = game:GetService("ReplicatedStorage").Events.CraftItem
+Event:FireServer(A_1)
+
+
+local A_1   = "God Rock"
+local Event = game:GetService("ReplicatedStorage").Events.CraftItem
+Event:FireServer(A_1)
+end)
+
+
+local A_1   = "OOF Horn"
+local Event = game:GetService("ReplicatedStorage").Events.CraftItem
+Event:FireServer(A_1)
+end)
